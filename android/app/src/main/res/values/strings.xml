@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lumen Tracker</string>
+    <string name="title_activity_main">Lumen Tracker</string>
+    <string name="package_name">com.lumentracker.app</string>
+    <string name="custom_url_scheme">com.lumentracker.app</string>
+</resources>

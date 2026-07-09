@@ -1,0 +1,10 @@
+{
+  "name": "LED Juggling Tracker",
+  "description": "Real-time camera tracker for LED juggling clubs, superimposing high-frame-rate visual effects, trails, glow pulses, and color overlays on moving objects.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
